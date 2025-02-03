@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+    <title>my personal website</title>
+    <link rel="stylesheet" type="text/css" href="csss.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/css2?family=josefin+ital,wght@0,100;0,200;0,300;0,400;0,
+    500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head>
+    <body>
+<!----hero Section start---->
+        <div class="hero">
+        <nav>
+<h2 class="logo">my personal web<span>site</span></h2>
+<ul>
+    <li><a href="#"></a>HOME</li>
+    <li><a href="#"></a>FIRTS LOVE</li>
+    <li><a href="#"></a>FAMILY TREE</li>
+    <li><a href="#"></a>ACHIEMENT</li>
+  </ul>
+   <a href="#" class="btn">i hope you like it</a>
+</nav>
+
+    <div class="content">
+      <h4>Hello, my name </h4>
+      <h1>Andre jel s.<span>mosenabre</span></h1>
+      <h3>I want to share my website</h3>
+      <div class="newslatter">
+        <form>
+          <input type="email" name="email" placeholder="Enter Your Email">
+          <input type="submit" name="submit" value="Lets Start">
+        </form>
+     </div>
+</div>
+<!-- The My first love Section -->
+<div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="my first love">
+  <h2 class="w3-wide">my firts love </h2>
+  <p class="w3-opacity"><i>The High School Sweetheart</i></p>
+  <p class="w3-justify"> My first love was my high school sweetheart. I was the new girl and he approached me at my locker to introduce himself. I became really close with his best friend and one day, while his friend and I were talking, I did a split. Eugene immediately excused himself from the conversation he was having with another girl and rushed over to say how that was amazing. He would walk me home (he lived a whole city away), cheer me on at my games, write me notes, talk about me wherever he was. Everyone knew Eugene loved and was with Darlene. I’ll never forget how one day I came home from my shift at the hospital and he messaged me to go downstairs and check the mailbox. Inside were 2 bags of my favorite candy. It meant the world to me. He would drive me around to the weirdest places just because I wanted to go. He paid attention to the small details about me and it’s something I’ve always loved. I'm so thankful for him being my first love because he’s shown me, for the most part, how I would like to be loved and that it’s possible.  </p>
+  <div class="w3-row w3-padding-32">
+
+    </body>
+    </html>
